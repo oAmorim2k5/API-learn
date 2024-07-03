@@ -1,5 +1,4 @@
 from imports import *
-import time
 
 lauching = bool(True)
 while lauching == True:
